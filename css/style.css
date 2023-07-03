@@ -1,3 +1,9 @@
 @import url(./global.css);
+
+/*Utilidades*/
+@import url(./utilidades/tipografia.css);
+@import url(./utilidades/cores.css);
+
+/*Projeto*/
 @import url(./header.css);
 @import url(./introducao.css);
