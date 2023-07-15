@@ -1,9 +1,20 @@
 @import url(./global.css);
 
+
+/*Home*/
+@import url(./home/header.css);
+@import url(./home/introducao.css);
+@import url(./home/teconologia.css);
+
+
+/*Bicicletas*/
+@import url(./Bicicletas/bicicletas-lista.css);
+
+
 /*Utilidades*/
 @import url(./utilidades/tipografia.css);
 @import url(./utilidades/cores.css);
 
-/*Projeto*/
-@import url(./header.css);
-@import url(./introducao.css);
+
+/*Componentes*/
+@import url(/css/utilidades/componentes.css)
