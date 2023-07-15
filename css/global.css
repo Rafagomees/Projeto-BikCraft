@@ -5,8 +5,7 @@
 
 img {
   max-width: 100%;
-  display: block;
-
+  display: inline-block;
 }
 
 img[src$=".jpg"] {
@@ -18,7 +17,7 @@ body {
   height: 7000px;
 }
 
-h1, h2, h3, h4, p {
+h1, h2, h3, h4, p, blockquote {
   margin: 0;
   padding: 0;
 }
