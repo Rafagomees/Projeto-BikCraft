@@ -9,8 +9,11 @@
 @import url(./home/depoimento.css);
 @import url(./home/footer.css);
 
+/*Termos*/
+@import url(./Termos/termos.css);
 
 /*Bicicletas*/
+@import url(./Bicicletas/bicicletas.css);
 @import url(./Bicicletas/bicicletas-lista.css);
 
 /*Seguros*/

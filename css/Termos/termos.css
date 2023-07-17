@@ -1,0 +1,16 @@
+.padding-footer-b {
+  padding-bottom: 36px;
+}
+
+.termos h2 {
+  padding-bottom: 20px;
+}
+
+.termos p + h2 {
+  margin-top: 40px
+}
+
+.termos p {
+  margin-bottom: 24px;
+  max-width: 75ch;
+}
