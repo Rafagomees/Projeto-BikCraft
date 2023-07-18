@@ -11,6 +11,9 @@
 
 /*Termos*/
 @import url(./Termos/termos.css);
+@import url(./Termos/contato.css);
+@import url(./Termos/lojas.css);
+
 
 /*Bicicletas*/
 @import url(./home/bicicletas.css);
@@ -26,6 +29,7 @@
 /*Utilidades*/
 @import url(./utilidades/tipografia.css);
 @import url(./utilidades/cores.css);
+@import url(./utilidades/formulario.css);
 
 
 /*Componentes*/
