@@ -13,8 +13,10 @@
 @import url(./Termos/termos.css);
 
 /*Bicicletas*/
-@import url(./Bicicletas/bicicletas.css);
-@import url(./Bicicletas/bicicletas-lista.css);
+@import url(./home/bicicletas.css);
+@import url(./home/bicicletas-lista.css);
+@import url(../bicicletas/bicicleta.css);
+@import url(../bicicletas/seguro.css);
 
 /*Seguros*/
 @import url(./Seguros/seguros.css);
