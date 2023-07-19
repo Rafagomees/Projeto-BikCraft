@@ -95,6 +95,11 @@
   padding: 60px;
   background: var(--cor-11);
 }
+
+.titulos {
+  background: url(../../assets/img/dec/top-right.svg) no-repeat top right 20px;
+}
+
 .titulos p {
   margin-bottom: 4px;
 }

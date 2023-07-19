@@ -25,6 +25,7 @@
 @import url(./Seguros/seguros.css);
 @import url(./Seguros/vantagens.css);
 @import url(./Seguros/perguntas.css);
+@import url(./Seguros/orcamento.css);
 
 /*Utilidades*/
 @import url(./utilidades/tipografia.css);
